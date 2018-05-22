@@ -223,7 +223,7 @@ def write_teams_to_csv():
 		for team in teams_final:
 			w.writerow(str(team))
 
-	print("\n" + str(len(users_final)) + " users written to " + str(csvfile1))
+	print("\n" + str(len(users_final)) + " users written to " + str(csvfile2))
 # ------------------------------------------------------------------------------------------------------------------
 
 def main(argv=None):
