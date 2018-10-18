@@ -246,7 +246,7 @@ def main(argv=None):
 		get_teams()
 		write_teams_to_csv()
 
-	print("Suck it PagerDuty!!")
+	print("\nSuck it PagerDuty!!\n")
 
 
 if __name__ == '__main__':
